@@ -90,7 +90,7 @@ alarm seach command 0xEC hexa.
 
 
 code này là để chuyển đổi 16 bit trong 2 bytes nhiệt độ sẽ nhận được từ ds18b20 thành nhiệt độ chính xác.
-
+```c
 #include <stdio.h>
 #include <stdint.h>
 
