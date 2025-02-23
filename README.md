@@ -198,7 +198,7 @@ int main(void)
 }
 
 
-
+```
 đây là thanh ghi của bytes giới hạn ngưỡng nhiệt độ thấp và giới hạn ngưỡng nhiệt độ cao trong ds18b20.
 
 
