@@ -1,0 +1,8 @@
+../Core/Src/main.c:12:7:convertBinaryToTemperature	32	static
+../Core/Src/main.c:97:7:ds18b20_temp	16	static
+../Core/Src/main.c:127:6:uart1_rxtx	4	static
+../Core/Src/main.c:167:13:tranmissionEachByte	16	static
+../Core/Src/main.c:175:6:myPrintf	272	static
+../Core/Src/main.c:185:5:main	16	static
+../Core/Src/main.c:207:6:SystemClock_Config	88	static
+../Core/Src/main.c:252:6:Error_Handler	4	static,ignoring_inline_asm

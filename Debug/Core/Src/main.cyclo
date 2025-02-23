@@ -1,0 +1,8 @@
+../Core/Src/main.c:12:7:convertBinaryToTemperature	15
+../Core/Src/main.c:97:7:ds18b20_temp	1
+../Core/Src/main.c:127:6:uart1_rxtx	1
+../Core/Src/main.c:167:13:tranmissionEachByte	3
+../Core/Src/main.c:175:6:myPrintf	1
+../Core/Src/main.c:185:5:main	1
+../Core/Src/main.c:207:6:SystemClock_Config	3
+../Core/Src/main.c:252:6:Error_Handler	1
